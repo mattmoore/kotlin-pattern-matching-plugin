@@ -1,10 +1,14 @@
 # Pattern Matching
 
+## Note: This Project has Moved
+
+This project is now hosted within [Arrow Meta](https://github.com/arrow-kt/arrow-meta). It is currently under development on the [pattern-matching](https://github.com/arrow-kt/arrow-meta/tree/pattern-matching) branch.
+
+Feel free to join us on the Kotlinlang Slack channel [#pattern-matching](https://kotlinlang.slack.com/archives/C013CRWEG74).
+
 The goal of this Arrow Meta plugin is to support pattern matching in Kotlin, similar to [Scala](https://docs.scala-lang.org/tour/pattern-matching.html) and [Haskell](http://learnyouahaskell.com/syntax-in-functions).
 
 A [KEEP](https://github.com/Kotlin/KEEP/pull/213) for pattern matching was submitted. I don't know how long it will take to get this proposal accepted and implemented. Subsequently, since I've been wanting to see how easy it would be to add pattern matching via Arrow Meta, I decided to start work on that.
-
-Feel free to join us on the Kotlinlang Slack channel [#pattern-matching](https://kotlinlang.slack.com/archives/C013CRWEG74).
 
 ## State of this Project
 
